@@ -1,4 +1,3 @@
-````md
 # Laporan Hasil Praktikum: Final Project Aplikasi Berbasis Container
 
 ## Identitas Mahasiswa
@@ -167,6 +166,3 @@ https://github.com/Febri-html/final-project-docker-2415354086
 ## Kesimpulan
 
 Berdasarkan hasil praktikum, aplikasi backend Node.js berhasil dijalankan menggunakan Docker Compose bersama database MySQL dan phpMyAdmin. Docker Network berhasil menghubungkan antar container, Docker Volume berhasil digunakan untuk menyimpan data database secara persistent, endpoint CRUD berhasil diuji, dan image Docker berhasil diupload ke Docker Hub.
-
-```
-```
